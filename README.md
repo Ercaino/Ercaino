@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--![erc](https://user-images.githubusercontent.com/86023301/166123521-ccff9809-bc8e-439c-9113-5b54d6bdfb0b.jpg)
-
 **Ercaino/Ercaino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
