@@ -26,9 +26,6 @@
     <a href="#">
         <img src="https://raw.githubusercontent.com/Ercaino/Ercaino/master/images/instagram.svg" style="vertical-align:top margin:6px 9px">
     </a>
-    <a href="https://www.linkedin.com/in/fulvio-sappia-5856a0239">
-        <img src="https://raw.githubusercontent.com/Ercaino/Ercaino/master/images/linkedIn.svg" style="vertical-align:top margin:6px 9px">
-    </a>
     <a href="https://twitter.com/Ercaino_exe">
         <img src="https://raw.githubusercontent.com/Ercaino/Ercaino/master/images/twitter.svg" style="vertical-align:top margin:6px 9px">
     </a>
