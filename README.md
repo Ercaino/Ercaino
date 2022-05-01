@@ -38,6 +38,16 @@
 
 ***
 
+```
+> Information
+
+>  -ꦼ———▸ 🗂️ Documentations / Explanations and other links
+>  -ꦼ———▸ 📑 Licenses
+>  -ꦼ———▸ 🛠️ Bug fixes
+>  -ꦼ———▸ 🖥️ Information on computer science and theory
+```
+
+***
 
 
 <!--
