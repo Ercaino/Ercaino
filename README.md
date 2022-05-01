@@ -18,6 +18,8 @@
 
 ### <div align="Lateral">Social<br></div>  
 
+<div align="Lateral">𝒟ℐ𝒮𝒞𝒪ℛ𝒟 ⟹ Eℝcαi𝓷o#4311 <br> <br> </div>
+
 <div align="left" style="text-decoration: none;">
     <a href="https://stackoverflow.com/users/17919376/ercaino?tab=profile">
         <img src="https://raw.githubusercontent.com/Ercaino/Ercaino/master/images/stackOverflow.svg" style="vertical-align:top margin:6px 9px">
@@ -48,6 +50,21 @@
 ```
 
 ***
+
+### <div align="Lateral">Main Tools<br></div> 
+
+<div align="left" style="text-decoration: none;">  
+  <a href="#">
+      <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/tools/visualstudio.svg" style="vertical-align:top margin:6px 9px">
+  </a> 
+  <a href="#">
+      <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/tools/visualstudio_code.svg" style="vertical-align:top margin:6px 9px">
+  </a>  
+  <a href="#">
+      <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/tools/jetbrains_intellij.svg" style="vertical-align:top margin:6px 9px">
+  </a>
+</div>
+
 
 
 <!--
