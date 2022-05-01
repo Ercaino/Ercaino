@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/Ercaino/Ercaino/master/images/anime.gif" style"width: 100%;border-radius:15px">
 </div>
 
-## <div align="center">Hi, I'm Ercaino, I have been developing since 2019 <br> and I have a lot of ideas on my mind <br>`Developer` ミ `Students`</div>  
+## <div align="center">Hi, I'm Ercaino, I have been developing since 2019 <br> and I have a lot of ideas on my mind <br>`Developer` ミ `Student`</div>  
   
 ***
 
