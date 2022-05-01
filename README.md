@@ -38,13 +38,7 @@
 
 ***
 
-## Credits
 
-```bash
-pip install foobar
-```
-
-[![Build Status](https://qa.nuxeo.org/jenkins/buildStatus/icon?job=/nuxeo/addons_nuxeo-sample-project-master)](https://qa.nuxeo.org/jenkins/job/nuxeo/job/addons_nuxeo-sample-project-master/)
 
 <!--
 **Ercaino/Ercaino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
