@@ -47,6 +47,8 @@
 >  -ꦼ———▸ 📑 Licenses
 >  -ꦼ———▸ 🛠️ Bug fixes
 >  -ꦼ———▸ 🖥️ Information on computer science and theory
+
+Remember to credit me, for any help contact me on Discord
 ```
 
 ***
