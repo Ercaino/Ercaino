@@ -35,9 +35,6 @@
     </a>
 </div>
 
-### [OceanHub](https://discord.gg/gggddd2WDt)
-<a href="https://discord.gg/gggddd2WDt"><img src="https://discord.com/api/guilds/874579837518483476/widget.png?style=banner2"></a>
-
 ***
 
 ```
