@@ -24,7 +24,7 @@
     <a href="https://stackoverflow.com/users/17919376/ercaino?tab=profile">
         <img src="https://raw.githubusercontent.com/Ercaino/Ercaino/master/images/stackOverflow.svg" style="vertical-align:top margin:6px 9px">
     </a>
-    <a href="[#](https://instagram.com/_.ercaino._?r=nametag)">
+    <a href="https://instagram.com/_.ercaino._?r=nametag">
         <img src="https://raw.githubusercontent.com/Ercaino/Ercaino/master/images/instagram.svg" style="vertical-align:top margin:6px 9px">
     </a>
     <a href="https://www.linkedin.com/in/fulvio-sappia-1b5315239">
