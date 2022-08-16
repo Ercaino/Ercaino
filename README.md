@@ -76,10 +76,42 @@ Remember to credit me, for any help contact me on Discord
 ```
 
 ***
-<!--TOOLS-->
-### <div align="Lateral">Main Tools<br></div> 
+<!--PROGRAMMING LANGUAGES | FRAMEWORKS | OTHERS-->
+<div>
+    <h2 aling="Lateral">
+        <img src="https://i.postimg.cc/vHXybVsh/Immagine-2022-08-04-235654-preview-rev-1.png" alt="837833354232856636" style="float:left;width:50px;height:50px;"/>  PROGRAMMING LANGUAGES | FRAMEWORKS | OTHERS
+    </h2>
+</div> 
 
-<div align="left" style="text-decoration: none;">  
+<div>
+    <p align="center">
+        <img alt="HTML5" src="https://img.shields.io/badge/html5-000000.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+        <img alt="CSS3" src="https://img.shields.io/badge/css3-000000.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+        <img alt="NodeJS" src="https://img.shields.io/badge/node.js-000000.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+        <img alt="JavaScript" src="https://img.shields.io/badge/javascript-000000.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+        <img alt="TypeScript" src="https://img.shields.io/badge/typescript-000000.svg?&style=for-the-badge&logo=typescript&logoColor=%448cab" />
+        <img alt="apache" src="https://img.shields.io/badge/apache-000000.svg?&style=for-the-badge&logo=apache&logoColor=white" />
+        <img alt="MySQL" src="https://img.shields.io/badge/mysql-000000.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
+        <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-000000?style=for-the-badge&logo=mariadb&logoColor=white" />
+        <img alt="SQLite" src="https://img.shields.io/badge/sqlite-000000.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+        <img alt="Java" src="https://img.shields.io/badge/java-000000.svg?&style=for-the-badge&logo=javajre&logoColor=white" />
+        <img alt="Docker" src="https://img.shields.io/badge/docker-000000.svg?style=for-the-badge&logo=docker&logoColor=white" />
+        <img alt=".NET" src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.net&logoColor=white" />
+        <img alt="Cs" src="https://img.shields.io/badge/c%23-000000.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
+        <img alt="cpp" src="https://img.shields.io/badge/c++-000000?style=for-the-badge&logo=cplusplus&logoColor=white" />
+        <img alt="c" src="https://img.shields.io/badge/c-000000?style=for-the-badge&logo=c&logoColor=white" />
+    </p>
+</div>
+
+
+<!--TOOLS-->
+<div>
+    <h2 aling="Lateral">
+        <img src="https://i.postimg.cc/Kcr9p1CD/gra.gif" alt="837833354232856636" style="float:left;width:50px;height:50px;"/>  PROGRAMMING LANGUAGES | FRAMEWORKS | OTHERS
+    </h2>
+</div>  
+
+<div align="center" style="text-decoration: none;">  
   <a href="https://visualstudio.microsoft.com/it/">
       <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/tools/visualstudio.svg" style="vertical-align:top margin:6px 9px">
   </a> 
