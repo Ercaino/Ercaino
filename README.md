@@ -4,7 +4,7 @@
 </div>
 
 ## <div align="center">Hi, I'm Ercaino, I have been developing since 2019 <br> and I have a lot of ideas on my mind <br>`Developer` ミ `Students`</div>  
-  
+
 ***
 
     𐩐╭ᣟ⠄🌴⊰⠂ programming is my passion
@@ -15,9 +15,10 @@
     
     𐩐╰ᣟ⠄🌴⊰⠂ I am available to help
 ***
+
 <!--SOCIAL-->
 ### <div align="Lateral">Social<br></div>  
-
+&nbsp;
 
 <div align="center" style="text-decoration: none;">
     <a href="https://stackoverflow.com/users/17919376/ercaino?tab=profile">
@@ -33,7 +34,7 @@
         <img src="https://raw.githubusercontent.com/Ercaino/Ercaino/master/images/twitter.svg" style="vertical-align:top margin:6px 9px">
     </a>
 </div>
-<br>
+<br>&nbsp;
 <p align="center">
     &nbsp;
     <a href="mailto:nome" target="_blank">
@@ -73,25 +74,27 @@ Remember to credit me, for any help contact me on Discord
   </a>  
   <a href="https://www.jetbrains.com/idea/">
       <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/tools/jetbrains_intellij.svg" style="vertical-align:top margin:6px 9px">
+    
   </a>
 </div>
 
-<!--STATS-->
-<br>
-<details>
-  &nbsp;
-  <summary>Github Stats</summary>
-    <p align="center">
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api?username=Ercaino&show_icons=true&count_private=true&hide=issues&theme=dark" />
+<!--STATS--> 
+<div>
+    &nbsp;
+        <details>
         &nbsp;
-        </a>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ercaino&theme=dark" />
-        </a>
-    </p>
-</details>
-
+            <summary>Github Stats</summary>
+                <p align="center">
+                    <a href="https://github.com/anuraghazra/github-readme-stats">
+                        <img src="https://github-readme-stats.vercel.app/api?username=Ercaino&show_icons=true&count_private=true&hide=issues&theme=dark" />
+                        &nbsp;
+                    </a>
+                    <a href="https://github.com/anuraghazra/github-readme-stats">
+                        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ercaino&theme=dark" />
+                    </a>
+                </p>
+        </details>
+</div>
 
 
 
