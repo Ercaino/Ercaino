@@ -1,9 +1,9 @@
-
+<!--IMG PRESENTAZIONE-->
 <div align="center" style"border-radius:15px">
   <img src="https://raw.githubusercontent.com/Ercaino/Ercaino/master/images/anime.gif" style"width: 100%;border-radius:15px">
 </div>
 
-## <div align="center">Hi, I'm Ercaino, I have been developing since 2019 <br> and I have a lot of ideas on my mind <br>`Developer` ミ `Student`</div>  
+## <div align="center">Hi, I'm Ercaino, I have been developing since 2019 <br> and I have a lot of ideas on my mind <br>`Developer` ミ `Students`</div>  
   
 ***
 
@@ -15,7 +15,7 @@
     
     𐩐╰ᣟ⠄🌴⊰⠂ I am available to help
 ***
-
+<!--SOCIAL-->
 ### <div align="Lateral">Social<br></div>  
 
 <div align="Lateral">𝒟ℐ𝒮𝒞𝒪ℛ𝒟 ⟹ Eℝcαi𝓷o#4311 <br> <br> </div>
@@ -24,7 +24,7 @@
     <a href="https://stackoverflow.com/users/17919376/ercaino?tab=profile">
         <img src="https://raw.githubusercontent.com/Ercaino/Ercaino/master/images/stackOverflow.svg" style="vertical-align:top margin:6px 9px">
     </a>
-    <a href="https://instagram.com/_.ercaino._?r=nametag">
+    <a href="#">
         <img src="https://raw.githubusercontent.com/Ercaino/Ercaino/master/images/instagram.svg" style="vertical-align:top margin:6px 9px">
     </a>
     <a href="https://www.linkedin.com/in/fulvio-sappia-1b5315239">
@@ -36,7 +36,7 @@
 </div>
 
 ***
-
+<!--INFORMATION-->
 ```
 > Information
 
@@ -49,7 +49,7 @@ Remember to credit me, for any help contact me on Discord
 ```
 
 ***
-
+<!--TOOLS-->
 ### <div align="Lateral">Main Tools<br></div> 
 
 <div align="left" style="text-decoration: none;">  
@@ -64,8 +64,8 @@ Remember to credit me, for any help contact me on Discord
   </a>
 </div>
 
-
-
+<!--STATS-->
+<br>
 <details>
   <summary>Github Stats</summary>
   
@@ -73,6 +73,7 @@ Remember to credit me, for any help contact me on Discord
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ercaino&layout=compact&show_icons=true&theme=radical)](https://github.com/Ercaino)
 
 </details>
+
 
 
 
