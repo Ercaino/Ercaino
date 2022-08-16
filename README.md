@@ -66,6 +66,14 @@ Remember to credit me, for any help contact me on Discord
 
 
 
+<details>
+  <summary>Github Stats</summary>
+  
+![I Ercaino's github stats](https://github-readme-stats.vercel.app/api?username=Ercaino&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ercaino&layout=compact&show_icons=true&theme=radical)](https://github.com/Ercaino)
+
+</details>
+
 
 
 <!--
