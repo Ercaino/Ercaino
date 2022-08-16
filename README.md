@@ -18,7 +18,13 @@
 ***
 
 <!--SOCIAL-->
-### <div align="Lateral">Social<br></div>  
+
+<div>
+    <h2 aling="Lateral">
+        <img src="https://i.postimg.cc/s1FC0Yd9/837833354232856636.gif" alt="837833354232856636" style="float:left;width:50px;height:50px;"/>  SOCIAL AND CONTACTS
+    </h2>
+</div>
+
 &nbsp;
 
 <div align="center" style="text-decoration: none;">
