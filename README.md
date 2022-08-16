@@ -20,7 +20,7 @@
 
 <div align="Lateral">𝒟ℐ𝒮𝒞𝒪ℛ𝒟 ⟹ Eℝcαi𝓷o#4311 <br> <br> </div>
 
-<div align="left" style="text-decoration: none;">
+<div align="center" style="text-decoration: none;">
     <a href="https://stackoverflow.com/users/17919376/ercaino?tab=profile">
         <img src="https://raw.githubusercontent.com/Ercaino/Ercaino/master/images/stackOverflow.svg" style="vertical-align:top margin:6px 9px">
     </a>
@@ -34,6 +34,13 @@
         <img src="https://raw.githubusercontent.com/Ercaino/Ercaino/master/images/twitter.svg" style="vertical-align:top margin:6px 9px">
     </a>
 </div>
+
+<p align="center">
+    &nbsp;
+    <a href="mailto:fulvio.sappia.05@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/fulvio.sappia.05@gmail.com-eMail-000000.svg?style=for-the-badge">
+    </a>
+</p>
 
 ***
 <!--INFORMATION-->
