@@ -79,11 +79,17 @@ Remember to credit me, for any help contact me on Discord
 <!--STATS-->
 <br>
 <details>
+  &nbsp;
   <summary>Github Stats</summary>
-  
-![I Ercaino's github stats](https://github-readme-stats.vercel.app/api?username=Ercaino&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ercaino&layout=compact&show_icons=true&theme=radical)](https://github.com/Ercaino)
-
+    <p align="center">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+            <img src="https://github-readme-stats.vercel.app/api?username=Ercaino&show_icons=true&count_private=true&hide=issues&theme=dark" />
+        &nbsp;
+        </a>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ercaino&theme=dark" />
+        </a>
+    </p>
 </details>
 
 
