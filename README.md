@@ -35,12 +35,7 @@
     </a>
 </div>
 
-<p align="center">
-    &nbsp;
-    <a href="mailto:fulvio.sappia.05@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/fulvio.sappia.05@gmail.com-eMail-000000.svg?style=for-the-badge">
-    </a>
-</p>
+
 
 ***
 <!--INFORMATION-->
