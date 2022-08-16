@@ -43,10 +43,9 @@
 
 <p align="center">
     <a href="https://discord.com/users/713013939025477712">
-    <img src="https://lanyard.cnrad.dev/api/713013939025477712">
+    <img src="https://lanyard.cnrad.dev/api/713013939025477712?theme=dark&bg=121110&borderRadius=30px&animated=true&idleMessage=Probably%20inactive%20or%20doing%20something%20else">
     </a>
 </p>
-
 
 ***
 <!--INFORMATION-->
