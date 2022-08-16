@@ -42,7 +42,7 @@
 </p>
 
 <p align="center">
-    <a href="[mailto:nome](https://discord.com/users/713013939025477712)">
+    <a href="https://discord.com/users/713013939025477712">
     <img src="https://lanyard.cnrad.dev/api/713013939025477712">
     </a>
 </p>
