@@ -42,8 +42,9 @@
 </p>
 
 <p align="center">
-    <img src="https://lanyard.cnrad.dev/api/713013939025477712">
+    <img src="https://lanyard.cnrad.dev/api/713013939025477712" src="(https://discord.com/users/713013939025477712)">
 </p>
+
 
 ***
 <!--INFORMATION-->
