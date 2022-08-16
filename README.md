@@ -34,7 +34,7 @@
         <img src="https://raw.githubusercontent.com/Ercaino/Ercaino/master/images/twitter.svg" style="vertical-align:top margin:6px 9px">
     </a>
 </div>
-<br>&nbsp;
+<br>
 <p align="center">
     &nbsp;
     <a href="mailto:nome" target="_blank">
