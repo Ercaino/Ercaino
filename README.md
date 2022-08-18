@@ -107,7 +107,7 @@ Remember to credit me, for any help contact me on Discord
 <!--TOOLS-->
 <div>
     <h2 aling="Lateral">
-        <img src="https://i.postimg.cc/Kcr9p1CD/gra.gif" alt="837833354232856636" style="float:left;width:50px;height:50px;"/>  PROGRAMMING LANGUAGES | FRAMEWORKS | OTHERS
+        <img src="https://i.postimg.cc/Kcr9p1CD/gra.gif" alt="837833354232856636" style="float:left;width:50px;height:50px;"/>  TOOLS AND SOFTWARE
     </h2>
 </div> 
 
