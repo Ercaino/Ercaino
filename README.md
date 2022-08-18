@@ -111,28 +111,46 @@ Remember to credit me, for any help contact me on Discord
     </h2>
 </div> 
 
-<div align="center">  
-  <a href="https://visualstudio.microsoft.com/it/">
-    <img alt="VisualStudio" src="https://img.shields.io/badge/visualstudio-000000.svg?style=for-the-badge&logo=visualstudio&logoColor=#5C2D91" />  
-  </a> 
-  <a href="https://code.visualstudio.com/">
-    <img alt="VisualStudioCode" src="https://img.shields.io/badge/visualstudiocode-000000.svg?style=for-the-badge&logo=visualstudiocode&logoColor=#007ACC" />  
-  </a>  
-  <a href="https://www.jetbrains.com/idea/">
-    <img alt="JetBrains" src="https://img.shields.io/badge/jetbrains-000000.svg?style=for-the-badge&logo=jetbrains&logoColor=#000000" />  
-  </a>
-  <a href="https://www.docker.com">
-    <img alt="Docker" src="https://img.shields.io/badge/docker-000000.svg?style=for-the-badge&logo=docker&logoColor=#0db7ed" />
-  </a>
-  <a href="https://git-scm.com/">
-    <img alt="GIT" src="https://img.shields.io/badge/git-000000.svg?style=for-the-badge&logo=git&logoColor=#F05032" />
-  </a>
-  <a href="https://it.wordpress.org/">
-    <img alt="WordPress" src="https://img.shields.io/badge/wordpress-000000.svg?style=for-the-badge&logo=wordpress&logoColor=#21759B" />
-  </a>
-  <a href="https://mysqladmin.register.it/phpmyadmin/">
-    <img alt="phpMyAdmin" src="https://img.shields.io/badge/phpmyadmin-000000.svg?style=for-the-badge&logo=phpmyadmin&logoColor=#6C78AF" />
-  </a>
+<div>
+    <p align="center">
+        <a href="https://visualstudio.microsoft.com/it/">
+            <img alt="VisualStudio" src="https://img.shields.io/badge/visualstudio-000000.svg?style=for-the-badge&logo=visualstudio&logoColor=#5C2D91" />  
+        </a> 
+        <a href="https://code.visualstudio.com/">
+            <img alt="VisualStudioCode" src="https://img.shields.io/badge/visualstudiocode-000000.svg?style=for-the-badge&logo=visualstudiocode&logoColor=#007ACC" />  
+        </a>  
+        <a href="https://www.jetbrains.com/idea/">
+            <img alt="JetBrains" src="https://img.shields.io/badge/jetbrains-000000.svg?style=for-the-badge&logo=jetbrains&logoColor=#000000" />  
+        </a>
+        <a href="https://www.docker.com">
+            <img alt="Docker" src="https://img.shields.io/badge/docker-000000.svg?style=for-the-badge&logo=docker&logoColor=#0db7ed" />
+        </a>
+        <a href="https://git-scm.com/">
+            <img alt="GIT" src="https://img.shields.io/badge/git-000000.svg?style=for-the-badge&logo=git&logoColor=#F05032" />
+        </a>
+        <a href="https://it.wordpress.org/">
+            <img alt="WordPress" src="https://img.shields.io/badge/wordpress-000000.svg?style=for-the-badge&logo=wordpress&logoColor=#21759B" />
+        </a>
+        <a href="https://mysqladmin.register.it/phpmyadmin/">
+            <img alt="phpMyAdmin" src="https://img.shields.io/badge/phpmyadmin-000000.svg?style=for-the-badge&logo=phpmyadmin&logoColor=#6C78AF" />
+        </a>
+    </p>
+</div>
+
+<!--System-->
+<div>
+    <h2 aling="Lateral">
+        <img src="https://i.postimg.cc/wMpKH8vQ/console.png" alt="Console" style="float:left;width:50px;height:50px;"/>  OPERATING SYSTEM
+    </h2>
+</div>
+
+<div>
+    <p align="center">
+        <!--Badge script-->
+        <img alt="Windows" src="https://img.shields.io/badge/windows-000000?style=for-the-badge&logo=windows&logoColor=#0078D6" />
+        <img alt="Linux" src="https://img.shields.io/badge/linux-000000?style=for-the-badge&logo=linux&logoColor=#FCC624" />
+        <img alt="Android" src="https://img.shields.io/badge/android-000000?style=for-the-badge&logo=android&logoColor=#3DDC84" />
+    </p>
 </div>
 
 <!--STATS--> 
