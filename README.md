@@ -85,6 +85,9 @@ Remember to credit me, for any help contact me on Discord
 
 <div>
     <p align="center">
+        <strong>Learned and in development</strong>  
+    </p>
+    <p align="center">
         <!--Badge script-->
         <img alt="HTML5" src="https://img.shields.io/badge/html5-000000.svg?&style=for-the-badge&logo=html5&logoColor=#e34c26" />
         <img alt="CSS3" src="https://img.shields.io/badge/css3-000000.svg?&style=for-the-badge&logo=css3&logoColor=#1572B6" />
