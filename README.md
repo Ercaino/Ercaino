@@ -20,7 +20,7 @@
 <!--SOCIAL-->
 <div>
     <h2 aling="Lateral">
-        <img src="https://i.postimg.cc/s1FC0Yd9/837833354232856636.gif" alt="837833354232856636" style="float:left;width:50px;height:50px;"/>  SOCIAL AND CONTACTS
+        <img src="https://i.postimg.cc/s1FC0Yd9/837833354232856636.gif" alt="837833354232856636" style="float:left;width:40px;height:40px;"/>  SOCIAL AND CONTACTS
     </h2>
 </div> 
 &nbsp;
@@ -79,7 +79,7 @@ Remember to credit me, for any help contact me on Discord
 <!--PROGRAMMING LANGUAGES | FRAMEWORKS | OTHERS-->
 <div>
     <h2 aling="Lateral">
-        <img src="https://i.postimg.cc/vHXybVsh/Immagine-2022-08-04-235654-preview-rev-1.png" alt="837833354232856636" style="float:left;width:50px;height:50px;"/>  PROGRAMMING LANGUAGES | FRAMEWORKS | OTHERS
+        <img src="https://i.postimg.cc/vHXybVsh/Immagine-2022-08-04-235654-preview-rev-1.png" alt="837833354232856636" style="float:left;width:40px;height:40px;"/>  PROGRAMMING LANGUAGES | FRAMEWORKS | OTHERS
     </h2>
 </div> 
 
@@ -107,7 +107,7 @@ Remember to credit me, for any help contact me on Discord
 <!--TOOLS-->
 <div>
     <h2 aling="Lateral">
-        <img src="https://i.postimg.cc/Kcr9p1CD/gra.gif" alt="837833354232856636" style="float:left;width:50px;height:50px;"/>  TOOLS AND SOFTWARE
+        <img src="https://i.postimg.cc/Kcr9p1CD/gra.gif" alt="837833354232856636" style="float:left;width:40px;height:40px;"/>  TOOLS AND SOFTWARE
     </h2>
 </div> 
 
@@ -140,7 +140,7 @@ Remember to credit me, for any help contact me on Discord
 <!--System-->
 <div>
     <h2 aling="Lateral">
-        <img src="https://i.postimg.cc/wMpKH8vQ/console.png" alt="Console" style="float:left;width:50px;height:50px;"/>  OPERATING SYSTEM
+        <img src="https://i.postimg.cc/wMpKH8vQ/console.png" alt="Console" style="float:left;width:40px;height:40px;"/>  OPERATING SYSTEM
     </h2>
 </div>
 
