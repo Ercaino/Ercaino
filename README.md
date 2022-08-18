@@ -215,16 +215,6 @@ Remember to credit me, for any help contact me on Discord
 
 ***
 
-<!--Discord-->
-<div>
-    <h2 align="center">Islyu﹒Moon</h2>
-    <p align="center">
-        <a href="https://discord.gg/hgsGt9g2uH">
-            <img alt="Islyu﹒Moon" src="https://discord.com/api/guilds/932403806162010132/widget.png?style=banner2" />
-        </a>
-    </p>
-</div> 
-
 <!--STATS--> 
 <div>
     &nbsp;
