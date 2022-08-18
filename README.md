@@ -85,12 +85,13 @@ Remember to credit me, for any help contact me on Discord
 
 <div>
     <p align="center">
-        <strong>Learned and in development</strong>  
+        <strong>Learned and in development ⋮</strong>  
     </p>
     <p align="center">
         <!--Badge script-->
         <img alt="HTML5" src="https://img.shields.io/badge/html5-000000.svg?&style=for-the-badge&logo=html5&logoColor=#e34c26" />
         <img alt="CSS3" src="https://img.shields.io/badge/css3-000000.svg?&style=for-the-badge&logo=css3&logoColor=#1572B6" />
+        <img alt="PowerShell" src="https://img.shields.io/badge/powershell-000000.svg?&style=for-the-badge&logo=powershell&logoColor=#5391FE" />
         <img alt="JavaScript" src="https://img.shields.io/badge/javascript-000000.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
         <img alt="TypeScript" src="https://img.shields.io/badge/typescript-000000.svg?&style=for-the-badge&logo=typescript&logoColor=%448cab" />
         <img alt="Java" src="https://img.shields.io/badge/java-000000.svg?&style=for-the-badge&logo=java&logoColor=white" />
@@ -103,7 +104,57 @@ Remember to credit me, for any help contact me on Discord
         <img alt="Visual Basic" src="https://img.shields.io/badge/visualbasic-000000.svg?&style=for-the-badge&logo=visualbasic&logoColor=white" />
         <img alt="GO" src="https://img.shields.io/badge/go-000000.svg?&style=for-the-badge&logo=go&logoColor=#29BEB0" />
         <img alt="Markdown" src="https://img.shields.io/badge/markdown-000000.svg?&style=for-the-badge&logo=markdown&logoColor=#29BEB0" />
+    </p>
+</div>
+
+<div>
+    <p align="center">
+        <strong>Most used ⋮</strong>  
+    </p>
+    <p align="center">
+        <!--Badge script-->
+        <img alt="HTML5" src="https://img.shields.io/badge/html5-000000.svg?&style=for-the-badge&logo=html5&logoColor=#e34c26" />
+        <img alt="CSS3" src="https://img.shields.io/badge/css3-000000.svg?&style=for-the-badge&logo=css3&logoColor=#1572B6" />
+        <img alt="JavaScript" src="https://img.shields.io/badge/javascript-000000.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+        <img alt="TypeScript" src="https://img.shields.io/badge/typescript-000000.svg?&style=for-the-badge&logo=typescript&logoColor=%448cab" />
+        <img alt="Java" src="https://img.shields.io/badge/java-000000.svg?&style=for-the-badge&logo=java&logoColor=white" />
+        <img alt="C++" src="https://img.shields.io/badge/c++-000000?style=for-the-badge&logo=cplusplus&logoColor=#00599C" />
+        <img alt="Python" src="https://img.shields.io/badge/python-000000.svg?style=for-the-badge&logo=python&logoColor=#3776AB" />
+        <img alt="Markdown" src="https://img.shields.io/badge/markdown-000000.svg?&style=for-the-badge&logo=markdown&logoColor=#29BEB0" />
+    </p>
+</div>
+
+<div>
+    <p align="center">
+        <strong>Currently learning ⋮</strong>  
+    </p>
+    <p align="center">
+        <!--Badge script-->
+        <img alt="NodeJS" src="https://img.shields.io/badge/node.js-000000.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+        <img alt="VueJS" src="https://img.shields.io/badge/vue.js-000000.svg?&style=for-the-badge&logo=vue.js&logoColor=white" />
+        <img alt="MySQL" src="https://img.shields.io/badge/mysql-000000.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
+        <img alt="JSON" src="https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white" />
+    </p>
+</div>
+
+<div>
+    <p align="center">
+        <strong>Planning to learn ⋮</strong>  
+    </p>
+    <p align="center">
+        <!--Badge script-->
         <img alt=".NET" src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.net&logoColor=white" />
+        <img alt="NestJS" src="https://img.shields.io/badge/nest.js-000000.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />
+        <img alt="SASS" src="https://img.shields.io/badge/sass-000000.svg?&style=for-the-badge&logo=sass&logoColor=white" />
+        <img alt="LESS" src="https://img.shields.io/badge/less-000000.svg?&style=for-the-badge&logo=less&logoColor=white" />
+        <img alt="BootStrap" src="https://img.shields.io/badge/bootstrap-000000.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" />
+        <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-000000?style=for-the-badge&logo=mariadb&logoColor=white" />
+        <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
+        <img alt="SQLite" src="https://img.shields.io/badge/sqlite-000000.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+        <img alt="apache" src="https://img.shields.io/badge/apache-000000.svg?&style=for-the-badge&logo=apache&logoColor=white" />
+        <img alt="Swift" src="https://img.shields.io/badge/swift-000000?style=for-the-badge&logo=swift&logoColor=white" />
+        <img alt="React" src="https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=white" />
+        <img alt="Ruby" src="https://img.shields.io/badge/Ruby-000000?style=for-the-badge&logo=Ruby&logoColor=white" />
     </p>
 </div>
 
@@ -136,6 +187,12 @@ Remember to credit me, for any help contact me on Discord
         </a>
         <a href="https://mysqladmin.register.it/phpmyadmin/">
             <img alt="phpMyAdmin" src="https://img.shields.io/badge/phpmyadmin-000000.svg?style=for-the-badge&logo=phpmyadmin&logoColor=#6C78AF" />
+        </a>
+        <a href="https://www.adobe.com/it/">
+            <img alt="Adobe" src="https://img.shields.io/badge/adobe-000000.svg?style=for-the-badge&logo=adobe&logoColor=#FF0000" />
+        </a>
+        <a href="https://atom.io/">
+            <img alt="Atom" src="https://img.shields.io/badge/atom-000000.svg?style=for-the-badge&logo=atom&logoColor=#FF0000" />
         </a>
     </p>
 </div>
