@@ -19,7 +19,7 @@
 
 <!--SOCIAL-->
 <div>
-    <h2 aling="Lateral">
+    <h2 align="Lateral">
         <img src="https://i.postimg.cc/s1FC0Yd9/837833354232856636.gif" alt="837833354232856636" style="float:left;width:40px;height:40px;"/>  SOCIAL AND CONTACTS
     </h2>
 </div> 
@@ -78,7 +78,7 @@ Remember to credit me, for any help contact me on Discord
 ***
 <!--PROGRAMMING LANGUAGES | FRAMEWORKS | OTHERS-->
 <div>
-    <h2 aling="Lateral">
+    <h2 align="Lateral">
         <img src="https://i.postimg.cc/vHXybVsh/Immagine-2022-08-04-235654-preview-rev-1.png" alt="837833354232856636" style="float:left;width:40px;height:40px;"/>  PROGRAMMING LANGUAGES | FRAMEWORKS | OTHERS
     </h2>
 </div> 
@@ -160,7 +160,7 @@ Remember to credit me, for any help contact me on Discord
 
 <!--TOOLS-->
 <div>
-    <h2 aling="Lateral">
+    <h2 align="Lateral">
         <img src="https://i.postimg.cc/Kcr9p1CD/gra.gif" alt="837833354232856636" style="float:left;width:40px;height:40px;"/>  TOOLS AND SOFTWARE
     </h2>
 </div> 
@@ -199,7 +199,7 @@ Remember to credit me, for any help contact me on Discord
 
 <!--System-->
 <div>
-    <h2 aling="Lateral">
+    <h2 align="Lateral">
         <img src="https://i.postimg.cc/wMpKH8vQ/console.png" alt="Console" style="float:left;width:40px;height:40px;"/>  OPERATING SYSTEM
     </h2>
 </div>
@@ -213,25 +213,31 @@ Remember to credit me, for any help contact me on Discord
     </p>
 </div>
 
+***
+
+<!--Discord-->
+<div>
+    <h2 align="center">Islyu﹒Moon</h2>
+    <p align="center">
+        <a href="https://discord.gg/hgsGt9g2uH">
+            <img alt="Islyu﹒Moon" src="https://discord.com/api/guilds/932403806162010132/widget.png?style=banner2" />
+        </a>
+    </p>
+</div> 
+
 <!--STATS--> 
 <div>
     &nbsp;
-        <details>
-        &nbsp;
-            <summary>Github Stats</summary>
-                <p align="center">
-                    <a href="https://github.com/anuraghazra/github-readme-stats">
-                        <img src="https://github-readme-stats.vercel.app/api?username=Ercaino&show_icons=true&count_private=true&hide=issues&theme=dark" />
-                        &nbsp;
-                    </a>
-                    <a href="https://github.com/anuraghazra/github-readme-stats">
-                        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ercaino&theme=dark" />
-                    </a>
-                </p>
-        </details>
+    <p align="center">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+            <img src="https://github-readme-stats.vercel.app/api?username=Ercaino&show_icons=true&count_private=true&hide=issues&theme=dark" />
+            &nbsp;
+        </a>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ercaino&theme=dark" />
+        </a>
+    </p>     
 </div>
-
-
 
 <!--
 **Ercaino/Ercaino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
