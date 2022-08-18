@@ -85,41 +85,53 @@ Remember to credit me, for any help contact me on Discord
 
 <div>
     <p align="center">
-        <img alt="HTML5" src="https://img.shields.io/badge/html5-000000.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-        <img alt="CSS3" src="https://img.shields.io/badge/css3-000000.svg?&style=for-the-badge&logo=css3&logoColor=white" />
-        <img alt="NodeJS" src="https://img.shields.io/badge/node.js-000000.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+        <!--Badge script-->
+        <img alt="HTML5" src="https://img.shields.io/badge/html5-000000.svg?&style=for-the-badge&logo=html5&logoColor=#e34c26" />
+        <img alt="CSS3" src="https://img.shields.io/badge/css3-000000.svg?&style=for-the-badge&logo=css3&logoColor=#1572B6" />
         <img alt="JavaScript" src="https://img.shields.io/badge/javascript-000000.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
         <img alt="TypeScript" src="https://img.shields.io/badge/typescript-000000.svg?&style=for-the-badge&logo=typescript&logoColor=%448cab" />
-        <img alt="apache" src="https://img.shields.io/badge/apache-000000.svg?&style=for-the-badge&logo=apache&logoColor=white" />
-        <img alt="MySQL" src="https://img.shields.io/badge/mysql-000000.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
-        <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-000000?style=for-the-badge&logo=mariadb&logoColor=white" />
-        <img alt="SQLite" src="https://img.shields.io/badge/sqlite-000000.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
-        <img alt="Java" src="https://img.shields.io/badge/java-000000.svg?&style=for-the-badge&logo=javajre&logoColor=white" />
-        <img alt="Docker" src="https://img.shields.io/badge/docker-000000.svg?style=for-the-badge&logo=docker&logoColor=white" />
+        <img alt="Java" src="https://img.shields.io/badge/java-000000.svg?&style=for-the-badge&logo=java&logoColor=white" />
+        <img alt="C" src="https://img.shields.io/badge/c-000000?style=for-the-badge&logo=c&logoColor=#A8B9CC" />
+        <img alt="C++" src="https://img.shields.io/badge/c++-000000?style=for-the-badge&logo=cplusplus&logoColor=#00599C" />
+        <img alt="C#" src="https://img.shields.io/badge/c%23-000000.svg?style=for-the-badge&logo=c-sharp&logoColor=#239120" />
+        <img alt="Python" src="https://img.shields.io/badge/python-000000.svg?style=for-the-badge&logo=python&logoColor=#3776AB" />
+        <img alt="SQL" src="https://img.shields.io/badge/sql-000000.svg?&style=for-the-badge&logo=sql&logoColor=white" />
+        <img alt="PHP" src="https://img.shields.io/badge/php-000000.svg?&style=for-the-badge&logo=php&logoColor=#232531" />
+        <img alt="Visual Basic" src="https://img.shields.io/badge/visualbasic-000000.svg?&style=for-the-badge&logo=visualbasic&logoColor=white" />
+        <img alt="GO" src="https://img.shields.io/badge/go-000000.svg?&style=for-the-badge&logo=go&logoColor=#29BEB0" />
+        <img alt="Markdown" src="https://img.shields.io/badge/markdown-000000.svg?&style=for-the-badge&logo=markdown&logoColor=#29BEB0" />
         <img alt=".NET" src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.net&logoColor=white" />
-        <img alt="Cs" src="https://img.shields.io/badge/c%23-000000.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
-        <img alt="cpp" src="https://img.shields.io/badge/c++-000000?style=for-the-badge&logo=cplusplus&logoColor=white" />
-        <img alt="c" src="https://img.shields.io/badge/c-000000?style=for-the-badge&logo=c&logoColor=white" />
     </p>
 </div>
-
 
 <!--TOOLS-->
 <div>
     <h2 aling="Lateral">
-        <img src="https://i.postimg.cc/Kcr9p1CD/gra.gif" alt="837833354232856636" style="float:left;width:50px;height:50px;"/>  MAIN TOOLS
+        <img src="https://i.postimg.cc/Kcr9p1CD/gra.gif" alt="837833354232856636" style="float:left;width:50px;height:50px;"/>  PROGRAMMING LANGUAGES | FRAMEWORKS | OTHERS
     </h2>
-</div>  
+</div> 
 
-<div align="center" style="text-decoration: none;">  
+<div align="center">  
   <a href="https://visualstudio.microsoft.com/it/">
-      <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/tools/visualstudio.svg" style="vertical-align:top margin:6px 9px">
+    <img alt="VisualStudio" src="https://img.shields.io/badge/visualstudio-000000.svg?style=for-the-badge&logo=visualstudio&logoColor=#5C2D91" />  
   </a> 
   <a href="https://code.visualstudio.com/">
-      <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/tools/visualstudio_code.svg" style="vertical-align:top margin:6px 9px">
+    <img alt="VisualStudioCode" src="https://img.shields.io/badge/visualstudiocode-000000.svg?style=for-the-badge&logo=visualstudiocode&logoColor=#007ACC" />  
   </a>  
   <a href="https://www.jetbrains.com/idea/">
-      <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/tools/jetbrains_intellij.svg" style="vertical-align:top margin:6px 9px">
+    <img alt="JetBrains" src="https://img.shields.io/badge/jetbrains-000000.svg?style=for-the-badge&logo=jetbrains&logoColor=#000000" />  
+  </a>
+  <a href="https://www.docker.com">
+    <img alt="Docker" src="https://img.shields.io/badge/docker-000000.svg?style=for-the-badge&logo=docker&logoColor=#0db7ed" />
+  </a>
+  <a href="https://git-scm.com/">
+    <img alt="GIT" src="https://img.shields.io/badge/git-000000.svg?style=for-the-badge&logo=git&logoColor=#F05032" />
+  </a>
+  <a href="https://it.wordpress.org/">
+    <img alt="WordPress" src="https://img.shields.io/badge/wordpress-000000.svg?style=for-the-badge&logo=wordpress&logoColor=#21759B" />
+  </a>
+  <a href="https://mysqladmin.register.it/phpmyadmin/">
+    <img alt="phpMyAdmin" src="https://img.shields.io/badge/phpmyadmin-000000.svg?style=for-the-badge&logo=phpmyadmin&logoColor=#6C78AF" />
   </a>
 </div>
 
