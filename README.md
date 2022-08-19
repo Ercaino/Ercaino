@@ -5,6 +5,7 @@
 
 <!--TEXT PRESENTAZIONE-->
 ## <div align="center">Hi, I'm Ercaino, I have been developing since 2019 <br> and I have a lot of ideas on my mind <br>`Developer` ミ `Students`</div>  
+<div align="center"><p>Copyright 2022 © Ercaino</p></div> 
 
 ***
 
