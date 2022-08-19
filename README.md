@@ -214,6 +214,20 @@ Remember to credit me, for any help contact me on Discord
     </p>
 </div>
 
+<!--Certifications-->
+<div align="center">
+    <h2>﹒﹒﹒━━ | Certifications | ━━﹒﹒﹒</h2>
+    &nbsp;
+    <ul>
+        <p>Cisco ITI Essentials </p>
+        <p>Cisco Cybersecurity 2021/2022</p>
+        <p>Cisco LINUX 2021/2022 </p>
+        <p>Cisco IOT 2021/2022 </p>
+        &nbsp;
+        <p>I also perform others... </p>
+    </ul>
+</div>
+
 ***
 
 <!--STATS--> 
