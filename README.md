@@ -33,7 +33,7 @@
     <a href="https://instagram.com/_.ercaino._?r=nametag">
         <img src="https://img.shields.io/badge/instagram-000000.svg?&style=for-the-badge&logo=instagram" style="vertical-align:top margin:6px 9px">
     </a>
-    <a href="https://www.linkedin.com/in/fulvio-sappia-1b5315239">
+    <a href="https://www.linkedin.com/in/ercaino-exe-1b5315239/">
         <img src="https://img.shields.io/badge/linkedin-000000.svg?&style=for-the-badge&logo=linkedin" style="vertical-align:top margin:6px 9px">
     </a>
     <a href="https://twitter.com/Ercaino_exe">
