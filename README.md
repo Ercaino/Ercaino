@@ -28,16 +28,16 @@
 
 <div align="center" style="text-decoration: none;">
     <a href="https://stackoverflow.com/users/17919376/ercaino?tab=profile">
-        <img src="https://raw.githubusercontent.com/Ercaino/Ercaino/master/images/stackOverflow.svg" style="vertical-align:top margin:6px 9px">
+        <img src="https://img.shields.io/badge/stackoverflow-000000.svg?&style=for-the-badge&logo=stackoverflow" style="vertical-align:top margin:6px 9px">
     </a>
     <a href="https://instagram.com/_.ercaino._?r=nametag">
-        <img src="https://raw.githubusercontent.com/Ercaino/Ercaino/master/images/instagram.svg" style="vertical-align:top margin:6px 9px">
+        <img src="https://img.shields.io/badge/instagram-000000.svg?&style=for-the-badge&logo=instagram" style="vertical-align:top margin:6px 9px">
     </a>
     <a href="https://www.linkedin.com/in/fulvio-sappia-1b5315239">
-        <img src="https://raw.githubusercontent.com/Ercaino/Ercaino/master/images/linkedIn.svg" style="vertical-align:top margin:6px 9px">
+        <img src="https://img.shields.io/badge/linkedin-000000.svg?&style=for-the-badge&logo=linkedin" style="vertical-align:top margin:6px 9px">
     </a>
     <a href="https://twitter.com/Ercaino_exe">
-        <img src="https://raw.githubusercontent.com/Ercaino/Ercaino/master/images/twitter.svg" style="vertical-align:top margin:6px 9px">
+        <img src="https://img.shields.io/badge/twitter-000000.svg?&style=for-the-badge&logo=twitter" style="vertical-align:top margin:6px 9px">
     </a>
 </div>
 
@@ -62,6 +62,10 @@
     <img src="https://lanyard.cnrad.dev/api/713013939025477712?theme=dark&bg=121110&borderRadius=30px&animated=true&idleMessage=Probably%20inactive%20or%20doing%20something%20else">
     </a>
 </p>
+
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=Ercaino&label=Profile%20views&color=0e75b6&style=flat" alt="Ercaino" />
+</div>
 
 ***
 <!--INFORMATION-->
@@ -216,21 +220,29 @@ Remember to credit me, for any help contact me on Discord
 
 <!--Certifications-->
 <div align="center">
-    <h2>﹒﹒﹒━━ | Certifications | ━━﹒﹒﹒</h2>
-    &nbsp;
-    <ul>
-        <p>Cisco ITI Essentials </p>
-        <p>Cisco Cybersecurity 2021/2022</p>
-        <p>Cisco LINUX 2021/2022 </p>
-        <p>Cisco IOT 2021/2022 </p>
+    <samp>
+        <h2>﹒﹒﹒━━ | Certifications | ━━﹒﹒﹒</h2>
         &nbsp;
-        <p>I also perform others... </p>
-    </ul>
+        <ul>
+            <p>Cisco ITI Essentials </p>
+            <p>Cisco Cybersecurity 2021/2022</p>
+            <p>Cisco LINUX 2021/2022 </p>
+            <p>Cisco IOT 2021/2022 </p>
+            &nbsp;
+            <p>I also perform others... </p>
+        </ul>
+    </samp>
 </div>
 
 ***
 
 <!--STATS--> 
+<div align="center">
+    <details>
+        <summary></summary>
+            <img src="https://github-profile-trophy.vercel.app/?username=Ercaino&theme=dracula&count_private=true">
+    </details>
+</div>
 <div>
     &nbsp;
     <p align="center">
