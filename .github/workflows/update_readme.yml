@@ -1,0 +1,65 @@
+# Visit https://github.com/lowlighter/metrics#-documentation for full reference
+name: Metrics # Name of workflow
+
+on:
+  # Schedule updates (every 3 hours)
+  schedule: [{cron: "0 */3 * * *"}]
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+  
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest # Latest Ubuntu runner
+    # Permission Group
+    permissions:
+      contents: write # Write/Modify repository contents to update github-metrics.svg file
+    # Concurrency Group - Avoid conflicts and reduce waste of resources
+    concurrency:
+      group: metrics-update
+      cancel-in-progress: true # If there is already a job in progress, it cancels it to start the new one
+    steps:
+    - name: Cache dependencies
+      uses: actions/cache@v4 # Cache dependencies
+      with:
+        path: ~/.cache # Where to save the cache
+        key: ${{ runner.os }}-cache-${{ hashFiles('**/lockfiles') }} # Unique key based on OS and any file locks
+    - uses: lowlighter/metrics@latest # @latest or @master or @main
+      with:
+        # Your GitHub token
+        # The following scopes are required:
+        #  - public_access (default scope)
+        #  - read:user
+        #  - read:org
+        #  - repo (only if you want to include private repositories)
+        # The following additional scopes may be required:
+        #  - read:org      (for organization related metrics)
+        #  - read:user     (for user related data)
+        #  - read:packages (for some packages related data)
+        #  - repo          (optional, if you want to include private repositories)
+        token: ${{ secrets.GH_PAT }}
+
+        # Option
+        user: Ercaino # GitHub user to collect information from
+        template: classic # Visual aspect of the report (Classic - Repository - Terminal - Markdown)
+        base: header, activity, community, repositories, metadata # Main sections to show in the report
+        # output: ercaino-metrics.svg # Set a custom name for the SVG file
+        config_timezone: Europe/Rome # Set the time zone to display dates/times
+        plugin_gists: yes # Show information about public GISTs
+        plugin_habits: yes # Analyze daily and weekly activity
+        plugin_habits_charts_type: classic # Visual appearance of the classic chart
+        plugin_habits_days: full-year
+        plugin_habits_facts: yes
+        plugin_habits_from: 200
+        plugin_isocalendar: yes # Shows a stylized calendar of contributions
+        plugin_isocalendar_duration: full-year
+        plugin_traffic: yes # Show public repository traffic
+        plugin_wakatime: yes # Inserts programming data collected by WakaTime
+        plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors-graphs, os-graphs # Time spent, projects, languages, editors, operating systems
+        # plugin_wakatime_languages_ignored: markdown, plaintext, text, xml, yaml, JSON # Ignore some less useful languages
+        plugin_wakatime_days: 365
+        plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+        
+        
+        
+        
