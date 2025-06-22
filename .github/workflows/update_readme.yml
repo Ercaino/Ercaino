@@ -55,7 +55,7 @@ jobs:
         plugin_isocalendar_duration: full-year
         plugin_traffic: yes # Show public repository traffic
         plugin_wakatime: yes # Inserts programming data collected by WakaTime
-        plugin_wakatime_sections: time, projects, languages, languages-graphs, editors-graphs, os-graphs # Time spent, projects, languages, editors, operating systems
+        plugin_wakatime_sections: time, projects-graphs, languages, languages-graphs, editors-graphs, os-graphs # Time spent, projects, languages, editors, operating systems
         # plugin_wakatime_languages_ignored: markdown, plaintext, text, xml, yaml, JSON # Ignore some less useful languages
         plugin_wakatime_days: 365
         plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
