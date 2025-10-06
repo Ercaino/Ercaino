@@ -156,6 +156,9 @@
             <img src="https://skillicons.dev/icons?i=linux,arch,debian,windows,raspberrypi" alt="System" />
         </a>
     </p>
+    <p align="center">
+        <a href='https://ko-fi.com/E1E01ME080' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi4.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+    </p>
 </div>
 <br>
 
