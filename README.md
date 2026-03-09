@@ -185,7 +185,8 @@
     <br>
 </div> -->
 <div align="center">
-    <div>
+    <!-- This Deployment is paused by the owner  -->
+    <!-- <div> 
         <img src="https://github-profile-trophy.vercel.app/?username=Ercaino&theme=gruvbox&column=3&margin-w=15&margin-h=15&title=-Issues,-Reviews" alt="profile" align="left">
         <p align="right">
             <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -197,7 +198,7 @@
                 <img src="https://github-readme-stats.vercel.app/api?username=Ercaino&show_icons=true&count_private=true&hide=issues&theme=dark" alt="profile" style="width: 26rem;"/>
             </a>
         </p><br>
-    </div>
+    </div> -->
     <details  align="center" >
         <summary></summary>
         <p align="center"><img src="github-metrics.svg" style="width: 40rem;" alt="Metrics" /></p>
