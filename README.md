@@ -179,11 +179,13 @@
     <div align="center">
         <table style="border: none; background-color: transparent;">
             <tr style="border: none; background-color: transparent;">
-            <td valign="middle" align="left" style="border: none; background-color: transparent;">
-                <img src="https://github-readme-stats.vercel.app/api?username=Ercaino&show_icons=true&count_private=true&hide=issues&theme=midnight-purple" alt="Profile Stats" />
+            <td valign="middle" style="border: none; background-color: transparent;">
+                <img src="https://github-readme-stats.vercel.app/api?username=Ercaino&show_icons=true&count_private=true&hide=issues&hide_border=true&theme=midnight-purple" alt="Profile Stats" width="450" />
+                <br><br>
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ercaino&theme=midnight-purple&hide_border=true" alt="Streak Stats" width="450" />
             </td>
-            <td valign="middle" align="right" style="border: none; background-color: transparent;">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ercaino&theme=midnight-purple" alt="Top Languages" />
+            <td valign="middle" style="border: none; background-color: transparent;">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ercaino&hide_border=true&theme=midnight-purple" alt="Top Languages" />
             </td>
             </tr>
         </table>
@@ -212,7 +214,7 @@
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=80&theme=midnight-purple" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=80&color=0:000000,40:31125e,70:9745f5,100:9f4bff" width="100%"/>
 </div>
 
 
