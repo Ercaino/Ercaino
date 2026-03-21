@@ -189,7 +189,7 @@
         </table>
         <br>
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ercaino&bg_color=000000&color=e7e7e7&line=e7e7e7&point=e7e7e7&area=true&hide_border=true&radius=4&custom_title=Ercaino+Contribution+Graph" alt="Activity Graph" width="100%" />
-    </div>
+    </div><br>
     <details align="center" >
         <summary>Metrics</summary>
         <p align="center"><img src="github-metrics.svg" style="width: 40rem;" alt="Metrics" /></p>
