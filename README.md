@@ -190,6 +190,20 @@
         <br>
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ercaino&bg_color=000000&color=e7e7e7&line=e7e7e7&point=e7e7e7&area=true&hide_border=true&radius=4&custom_title=Ercaino+Contribution+Graph" alt="Activity Graph" width="100%" />
     </div><br>
+    <!-- <div> 
+        <p align="left">
+            <img src="https://github-readme-stats.vercel.app/api?username=Ercaino&show_icons=true&count_private=true&hide=issues&theme=midnight-purple" alt="profile" style="width: 35rem;"/>
+        </p><br>
+        <p align="left">
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ercaino&theme=transparent&hide_border=true&ring=7C3AED&fire=06B6D4&currStreakLabel=C9D1D9&sideLabels=94A3B8&dates=475569&background=020810&stroke=0f1729&currStreakNum=22D3EE&sideNums=A78BFA" style="width: 26rem;"/>
+        </p><br>
+        <p align="right">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ercaino&theme=midnight-purple" alt="profile" style="width: 25rem;"/>
+        </p><br>
+        <p align="center">
+            <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ercaino&bg_color=000000&color=e7e7e7&line=e7e7e7&point=e7e7e7&area=true&hide_border=true&radius=4&custom_title=Ercaino+Contribution+Graph" alt="graph" width="80%"/>
+        </p><br>
+    </div> -->
     <details align="center" >
         <summary>Metrics</summary>
         <p align="center"><img src="github-metrics.svg" style="width: 40rem;" alt="Metrics" /></p>
