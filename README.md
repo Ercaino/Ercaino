@@ -175,37 +175,33 @@
 <!-- Stats git -->
 <h2 align="left"> <img src=".github/assets/stats_title.gif" alt="S-T" style="width: 2rem; height: 2rem" /> Stast </h2>
 
-<!-- gruvbox _ juicyfresh --> 
-<!-- &column=3&margin-w=15&margin-h=15 -->
-<!-- <div align="center">
-    <details>
-        <summary></summary>
-            <img src="https://github-profile-trophy.vercel.app/?username=Ercaino&theme=gruvbox&column=3&margin-w=15&margin-h=15&title=-Issues,-Reviews" align="center">
-    </details>
-    <br>
-</div> -->
 <div align="center">
-    <!-- This Deployment is paused by the owner  -->
-    <!-- <div> 
-        <img src="https://github-profile-trophy.vercel.app/?username=Ercaino&theme=gruvbox&column=3&margin-w=15&margin-h=15&title=-Issues,-Reviews" alt="profile" align="left">
-        <p align="right">
-            <a href="https://github.com/anuraghazra/github-readme-stats">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ercaino&theme=dark" alt="profile"/>
-            </a>
-        </p><br>
-        <p align="left">
-            <a href="https://github.com/anuraghazra/github-readme-stats">
-                <img src="https://github-readme-stats.vercel.app/api?username=Ercaino&show_icons=true&count_private=true&hide=issues&theme=dark" alt="profile" style="width: 26rem;"/>
-            </a>
-        </p><br>
-    </div> -->
-    <details  align="center" >
-        <summary></summary>
+    <div align="center">
+        <table style="border: none; background-color: transparent;">
+            <tr style="border: none; background-color: transparent;">
+            <td valign="middle" align="left" style="border: none; background-color: transparent;">
+                <img src="https://github-readme-stats.vercel.app/api?username=Ercaino&show_icons=true&count_private=true&hide=issues&theme=midnight-purple" alt="Profile Stats" />
+            </td>
+            <td valign="middle" align="right" style="border: none; background-color: transparent;">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ercaino&theme=midnight-purple" alt="Top Languages" />
+            </td>
+            </tr>
+        </table>
+        <br>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ercaino&bg_color=000000&color=e7e7e7&line=e7e7e7&point=e7e7e7&area=true&hide_border=true&radius=4&custom_title=Ercaino+Contribution+Graph" alt="Activity Graph" width="100%" />
+    </div>
+    <details align="center" >
+        <summary>Metrics</summary>
         <p align="center"><img src="github-metrics.svg" style="width: 40rem;" alt="Metrics" /></p>
     </details>
 </div>
 
----
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=80&theme=midnight-purple" width="100%"/>
+</div>
+
+
 
 <!--
 **Ercaino/Ercaino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
