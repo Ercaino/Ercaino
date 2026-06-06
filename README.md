@@ -182,7 +182,7 @@
             <td valign="middle" style="border: none; background-color: transparent;">
                 <img src="https://github-readme-stats-erca.vercel.app/api?username=Ercaino&show_icons=true&count_private=true&hide=issues&hide_border=true&theme=midnight-purple" alt="Profile Stats" width="450" />
                 <br><br>
-                <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ercaino&theme=midnight-purple&hide_border=true" alt="Streak Stats" width="450" />
+                <img src="https://github-readme-streak-stats-erca.vercel.app/?user=Ercaino&theme=midnight-purple&hide_border=true" alt="Streak Stats" width="450" />
             </td>
             <td valign="middle" style="border: none; background-color: transparent;">
                 <img src="https://github-readme-stats-erca.vercel.app/api/top-langs/?username=Ercaino&hide_progress=true&layout=compact&hide_border=true&theme=midnight-purple" alt="Top Languages" />
